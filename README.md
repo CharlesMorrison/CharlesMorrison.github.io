@@ -1,11 +1,11 @@
 <!DOCTYPE html>
+
 <html>
-	<h1>
+	<head>
 		<title>CJ Loves Cats</title>
-	</h1>
-
+	</head>
 	<body>
-
 		<h1>Why?</h1>
-
-		<p>Because they are soft. </p>
+		<p>Because they are soft.</p>
+	</body>
+</html>
