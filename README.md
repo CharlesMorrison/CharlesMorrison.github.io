@@ -2,10 +2,11 @@
 
 <html>
 	<head>
-		<title>CJ Loves Cats</title>
+		<title>CJ Morrison</title>
 	</head>
 	<body>
-		<h1>Why?</h1>
-		<p>Because they are soft.</p>
+		<h1>I LOVE CATS</h1>
+		<h2>Why?</h2>
+		<p>Because they are soft</p>
 	</body>
 </html>
