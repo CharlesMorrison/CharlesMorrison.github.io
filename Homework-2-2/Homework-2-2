@@ -5,13 +5,11 @@
 	<body>
 		<h1>Charlie is a interesting Character. He really likes to...</h1>
         <ul>
-            <li>Makes his own playdough.</li>
+            <li>Makes his own <em>playdough</em>.</li>
             <li>1<sup>st</sup>of every month, goes to the driving range.</li>
             <li><strong>Always</strong>puts his socks on opposite feet.</li>
-            <li>Gives old people the <em>bird</em>.</li>
-            <li>Quotes Forrest Gump.<blockquote cite="https://www.youtube.com/watch?v=edmqTODMZC4">
-            <p>Shit Happens.</p>
-            </blockquote>
+            <li>Gives old people the <strong>bird</strong>.</li>
+            <li>Quotes Forrest Gump<blockquote cite="https://www.youtube.com/watch?v=edmqTODMZC4"><p>"Shit Happens".</p></blockquote>
     
             
 		
@@ -19,20 +17,3 @@
 </html>
 
 
-
-<html>
-	<head>
-		<title>Stanley's Cup</title>
-	</head>
-
-	<body>
-		<h2>Stanley's Cup</h2>
-
-		<p>There’s a poor hockey player named Rupp</p>
-		<p>And though ill equipped, never gave up</p>
-		<p>But while in the big game</p>
-		<p>His groin was the puck’s aim</p>
-		<p>He said, “No sweat, I’m wearing Stanley’s cup.”</p>
-
-
-  </body>
